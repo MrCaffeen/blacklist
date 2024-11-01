@@ -1,0 +1,53 @@
+# Title: MrCaffeen/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 31 October 2024 00:35:16 (UTC)
+# Number of unique domains: 119,403
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/MrCaffeen/hosts/master/hosts
+# Project home page: https://github.com/MrCaffeen/hosts
+# Project releases: https://github.com/MrCaffeen/hosts/releases
+#
+# ===============================================================
+
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+# End of custom host records.
+
+#=====================================
+# Title: Hosts contributed by MrCaffeen
+# blocking TelstraTV Roku Devices
+
+0.0.0.0 cms.telstratv.com
+0.0.0.0 update.roku.com
+0.0.0.0 api.telstratv.com
+0.0.0.0 infos.telstratv.com.au
+0.0.0.0 device-state.prod.facade.telstra.com.au
+0.0.0.0 firmware.roku.com
+0.0.0.0 software.roku.com
+0.0.0.0 logger.tv.telstra.com.au
+0.0.0.0 api.tv.telstra.com.au
+0.0.0.0 p.ravm.tv
+0.0.0.0 display.ravm.tv
+0.0.0.0 api.roku.com
+0.0.0.0 austin.logs.roku.com
+0.0.0.0 austin.sw.roku.com
+0.0.0.0 scribe.logs.roku.com
